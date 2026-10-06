@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gyanprabha2026/DSA/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -29,4 +30,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gyanprabha2026/DSA/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
