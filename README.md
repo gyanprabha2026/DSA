@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gyanprabha2026/DSA/tree/master/2729-check-if-the-number-is-fascinating) |
+## Database
+|  |
+| ------- |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/gyanprabha2026/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
