@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gyanprabha2026/DSA/tree/master/0204-count-primes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gyanprabha2026/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -70,8 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gyanprabha2026/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gyanprabha2026/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
