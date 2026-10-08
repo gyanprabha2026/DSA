@@ -1,15 +1,16 @@
 class Solution:
     def checkIfExist(self, arr: list[int]) -> bool:
         
-        n = len(arr)
-        i = 0
+        seen = set()
 
-        while i < n:
+        for num in arr:
 
-            for j in range(i+1, n):
-                if arr[i] == 2 * arr[j] or arr[j] == 2 * arr[i]:
-                    return True
-            
-            i += 1
-        
+            if 2 * num in seen:
+                return True
+
+            if num % 2 == 0 and num // 2 in seen:
+                return True
+
+            seen.add(num)
+
         return False
