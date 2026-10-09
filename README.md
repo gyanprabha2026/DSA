@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gyanprabha2026/DSA/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
@@ -101,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/gyanprabha2026/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/gyanprabha2026/DSA/tree/master/3813-vowel-consonant-score) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
