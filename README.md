@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/gyanprabha2026/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3813-vowel-consonant-score](https://github.com/gyanprabha2026/DSA/tree/master/3813-vowel-consonant-score) |
 ## Ordered Set
 |  |
 | ------- |
@@ -100,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/gyanprabha2026/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/gyanprabha2026/DSA/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
