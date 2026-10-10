@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/gyanprabha2026/DSA/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gyanprabha2026/DSA/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanprabha2026/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gyanprabha2026/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/gyanprabha2026/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gyanprabha2026/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/gyanprabha2026/DSA/tree/master/3813-vowel-consonant-score) |
 ## Counting
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
