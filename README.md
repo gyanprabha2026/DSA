@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [3436-find-valid-emails](https://github.com/gyanprabha2026/DSA/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/gyanprabha2026/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Two Pointers
 |  |
