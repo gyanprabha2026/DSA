@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gyanprabha2026/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/gyanprabha2026/DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/gyanprabha2026/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gyanprabha2026/DSA/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gyanprabha2026/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/gyanprabha2026/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gyanprabha2026/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/gyanprabha2026/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/gyanprabha2026/DSA/tree/master/3813-vowel-consonant-score) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/gyanprabha2026/DSA/tree/master/0383-ransom-note) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
