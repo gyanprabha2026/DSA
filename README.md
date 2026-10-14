@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/gyanprabha2026/DSA/tree/master/0184-department-highest-salary) |
 | [3436-find-valid-emails](https://github.com/gyanprabha2026/DSA/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/gyanprabha2026/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/gyanprabha2026/DSA/tree/master/3475-dna-pattern-recognition) |
 ## Two Pointers
 |  |
 | ------- |
