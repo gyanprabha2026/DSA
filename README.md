@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gyanprabha2026/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/gyanprabha2026/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gyanprabha2026/DSA/tree/master/0682-baseball-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gyanprabha2026/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gyanprabha2026/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gyanprabha2026/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/gyanprabha2026/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gyanprabha2026/DSA/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/gyanprabha2026/DSA/tree/master/1544-make-the-string-great) |
 ## Design
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gyanprabha2026/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
