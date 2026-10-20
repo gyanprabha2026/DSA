@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gyanprabha2026/DSA/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/gyanprabha2026/DSA/tree/master/0292-nim-game) |
+| [0728-self-dividing-numbers](https://github.com/gyanprabha2026/DSA/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/gyanprabha2026/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/gyanprabha2026/DSA/tree/master/2235-add-two-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gyanprabha2026/DSA/tree/master/2729-check-if-the-number-is-fascinating) |
