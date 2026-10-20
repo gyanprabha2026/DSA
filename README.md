@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gyanprabha2026/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gyanprabha2026/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gyanprabha2026/DSA/tree/master/0389-find-the-difference) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gyanprabha2026/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/gyanprabha2026/DSA/tree/master/1544-make-the-string-great) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gyanprabha2026/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/gyanprabha2026/DSA/tree/master/3813-vowel-consonant-score) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gyanprabha2026/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanprabha2026/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gyanprabha2026/DSA/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gyanprabha2026/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/gyanprabha2026/DSA/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
